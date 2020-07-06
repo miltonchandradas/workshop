@@ -1,0 +1,21 @@
+### Add Participant
+POST http://localhost:4004/workshop/Participants
+Content-Type: application/json
+
+{
+    "id": "I800001",
+    "name": "Jane Doe",
+    "department": "DBS Consulting",
+    "team_id": "Team 205"
+}
+
+### Add Participant
+POST http://localhost:4004/workshop/Participants
+Content-Type: application/json
+
+{
+    "id": "I800002",
+    "name": "John Doe",
+    "department": "DBS Consulting",
+    "team_id": "Team 207"
+}
