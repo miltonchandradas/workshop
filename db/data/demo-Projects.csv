@@ -1,6 +1,6 @@
-name;service;team_id
-Ronstring;IoT, SAC, CAI;Team 207
-Zaam-Dox;ML Predictive Analytics, CAI, IoT;Team 214
-Tampflex;CAI, ML Image Processing, CAP;Team 218
-Voyatouch;IoT, SAC, CAP;Team 201
-Duobam;ML Predictive Analytics, SAC, IoT;Team 205
+id;name;service;team_id
+72f46ac0-6a48-4a88-88e0-9bc618705972;Ronstring;IoT, SAC, CAI;Team 207
+72f46ac0-6a48-4a88-88e0-9bc618705973;Zaam-Dox;ML Predictive Analytics, CAI, IoT;Team 214
+72f46ac0-6a48-4a88-88e0-9bc618705974;Tampflex;CAI, ML Image Processing, CAP;Team 218
+72f46ac0-6a48-4a88-88e0-9bc618705975;Voyatouch;IoT, SAC, CAP;Team 201
+72f46ac0-6a48-4a88-88e0-9bc618705976;Duobam;ML Predictive Analytics, SAC, IoT;Team 205
